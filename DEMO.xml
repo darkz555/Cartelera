@@ -1,0 +1,242 @@
+<salas tipo="TRADICIONAL" nombre="Cinépolis Cascadas Mall">
+<politica Descripcion=" " Grupo=" "> </politica>
+<sala numero="1" cupo="">
+<peliculas>
+<pelicula>
+<nombre>DEMON SLAYER: HASHIRA DOB</nombre>
+<HOCode>HO00008242</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008242</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="128" vendidos="4">15:15:00</hora>
+<hora disponibles="124" vendidos="8">17:45:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>DEMON SLAYER: HASHIRA SUB</nombre>
+<HOCode>HO00008229</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008229</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="SUBTITLE"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">20:20:00</hora>
+</horarios>
+</pelicula>
+</peliculas>
+</sala>
+<sala numero="2" cupo="">
+<peliculas>
+<pelicula>
+<nombre>Duna: parte dos Dob</nombre>
+<HOCode>HO00008199</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008199</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">16:40:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>Duna: parte dos Sub</nombre>
+<HOCode>HO00008169</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008169</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="SUBTITLE"/>
+</sellos>
+<horarios>
+<hora disponibles="80" vendidos="52">20:00:00</hora>
+</horarios>
+</pelicula>
+</peliculas>
+</sala>
+<sala numero="3" cupo="">
+<peliculas>
+<pelicula>
+<nombre>Duna: parte dos Dob</nombre>
+<HOCode>HO00008199</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008199</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="198" vendidos="26">19:10:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>Duna: parte dos Sub</nombre>
+<HOCode>HO00008169</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008169</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="SUBTITLE"/>
+</sellos>
+<horarios>
+<hora disponibles="218" vendidos="6">15:30:00</hora>
+</horarios>
+</pelicula>
+</peliculas>
+</sala>
+<sala numero="4" cupo="">
+<peliculas>
+<pelicula>
+<nombre>Duna: parte dos Dob</nombre>
+<HOCode>HO00008199</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008199</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="307" vendidos="9">14:30:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>Duna: parte dos Sub</nombre>
+<HOCode>HO00008169</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008169</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="SUBTITLE"/>
+</sellos>
+<horarios>
+<hora disponibles="289" vendidos="27">18:00:00</hora>
+<hora disponibles="314" vendidos="2">21:25:00</hora>
+</horarios>
+</pelicula>
+</peliculas>
+</sala>
+<sala numero="5" cupo="">
+<peliculas>
+<pelicula>
+<nombre>Bob Marley : La Leyenda DOB</nombre>
+<HOCode>HO00008158</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008158</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">18:30:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>Madame Web DOB</nombre>
+<HOCode>HO00008151</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008151</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">21:00:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>RED</nombre>
+<HOCode>HO00008193</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008193</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">16:15:00</hora>
+</horarios>
+</pelicula>
+</peliculas>
+</sala>
+<sala numero="6" cupo="">
+<peliculas>
+<pelicula>
+<nombre>FERRARI SUB</nombre>
+<HOCode>HO00008164</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008164</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="SUBTITLE"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">21:45:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>THE CHOSEN (TEMP 4-CAP 1 Y 2) DOB</nombre>
+<HOCode>HO00008239</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008239</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">16:00:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>THE CHOSEN (TEMP 4-CAP 1 Y 2) SUB</nombre>
+<HOCode>HO00008230</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008230</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="SUBTITLE"/>
+</sellos>
+<horarios>
+<hora disponibles="132" vendidos="0">18:50:00</hora>
+</horarios>
+</pelicula>
+</peliculas>
+</sala>
+<sala numero="7" cupo="">
+<peliculas>
+<pelicula>
+<nombre>Despedida de solteras Esp</nombre>
+<HOCode>HO00007542</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00007542</cartel>
+<sellos>
+<sello tipo="2D"/>
+</sellos>
+<horarios>
+<hora disponibles="134" vendidos="0">19:30:00</hora>
+<hora disponibles="134" vendidos="0">21:35:00</hora>
+</horarios>
+</pelicula>
+<pelicula>
+<nombre>Mavka: Guardiana del bosque Dob</nombre>
+<HOCode>HO00008098</HOCode>
+<clasificacion>A</clasificacion>
+<cartel>http://10.38.1.1/cinema-cdn/media/entity/get/FilmPosterGraphic/HO00008098</cartel>
+<sellos>
+<sello tipo="2D"/>
+<sello tipo="DUB"/>
+</sellos>
+<horarios>
+<hora disponibles="134" vendidos="0">15:00:00</hora>
+<hora disponibles="131" vendidos="3">17:15:00</hora>
+</horarios>
+</pelicula>
+</peliculas>
+</sala>
+</salas>
